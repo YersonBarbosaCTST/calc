@@ -1,0 +1,14 @@
+table {
+    width: 100%;
+    background-color: aqua;
+  }
+  
+  button {
+    width: 100%;
+    font-size: 150%;
+    color:black;
+  }
+  
+  .ac {
+    color:cadetblue;
+  }
